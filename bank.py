@@ -1,7 +1,7 @@
 print("=-_-"*10)
 
 customerNames = ['mouse','keyboard','cpu','ups']
-customerPins = ['1234','1234','1234','1234']
+customerPins = ['1024','2048','3434','1234']
 customerBalances = [10000,20000,30000,40000]
 deposition = 0
 withdrawal = 0
